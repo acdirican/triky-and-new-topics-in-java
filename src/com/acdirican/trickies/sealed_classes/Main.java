@@ -44,5 +44,7 @@ class RedRose implements Rose {
 }
 
 public class Main {
-
+	public static void main(String[] args) {
+		
+	}
 }
