@@ -1,4 +1,4 @@
-package records;
+package com.acdirican.trickies.records;
 
 import java.util.Objects;
 

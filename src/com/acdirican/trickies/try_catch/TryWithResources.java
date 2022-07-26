@@ -1,4 +1,4 @@
-package try_catch;
+package com.acdirican.trickies.try_catch;
 
 import java.io.File;
 import java.io.FileNotFoundException;

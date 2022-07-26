@@ -1,4 +1,4 @@
-package basic_io;
+package com.acdirican.trickies.basic_io;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

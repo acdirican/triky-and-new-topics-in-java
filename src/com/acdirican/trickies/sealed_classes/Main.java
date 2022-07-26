@@ -1,4 +1,4 @@
-package sealed_classes;
+package com.acdirican.trickies.sealed_classes;
 
 /**
  * A sealed class or interfaces is a construct that strictly determines (limits)

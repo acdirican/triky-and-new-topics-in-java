@@ -1,4 +1,4 @@
-package try_catch;
+package com.acdirican.trickies.try_catch;
 
 /**
  * Finally almost means that "Whatever the case, run the code!".
