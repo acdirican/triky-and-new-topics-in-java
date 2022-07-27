@@ -1,4 +1,4 @@
-# Trick and New Topics in Java
+# Tricky, New or Detail Topics in Java
 
 This projects includes several topics that might be considered tricky, new and frequent. They were simply explained and code samples were given.
 
