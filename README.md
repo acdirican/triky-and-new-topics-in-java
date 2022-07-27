@@ -10,6 +10,7 @@ The topics so far:
   <li>Finally block and Try-with-resources</li>
   <li>Sealed classes</li>
   <li>Records (java.lang.Record)</li>
+  <li>Assertions: assert</li>
 </ul>
 
 
